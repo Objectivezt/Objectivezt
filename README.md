@@ -1,8 +1,7 @@
--[blog](https://objectivezt.com/#/)
+- [🤔blog](https://objectivezt.com/#/)
 
-![](https://github-readme-stats.vercel.app/api?username=objectivezt&show_icons=true&theme=radicale&hide_title=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=objectivezt&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=objectivezt&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=objectivezt&layout=compact&theme=radical)
 
 <!--
 **Objectivezt/Objectivezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
