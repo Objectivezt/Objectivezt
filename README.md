@@ -1,4 +1,4 @@
-### Hi there 👋
+-[blog](https://objectivezt.com/#/)
 
 ![](https://github-readme-stats.vercel.app/api?username=objectivezt&show_icons=true&theme=radicale&hide_title=true)
 
