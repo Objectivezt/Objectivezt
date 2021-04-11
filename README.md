@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=objectivezt&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=objectivezt&show_icons=true&theme=radicale&hide_title=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=objectivezt&layout=compact)
 
