@@ -1,4 +1,4 @@
-- [🤔blog](https://objectivezt.com/#/)
+- [🤔blog](https://www.yuque.com/objectivezt)
 
 ![](https://github-readme-stats.vercel.app/api?username=objectivezt&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=objectivezt&layout=compact&theme=radical)
